@@ -5,6 +5,8 @@ config.env
 .env.development.local
 .env.test.local
 .env.production.local
+backend/config/config.env
+backend/config/.env.test
 
 # Dependencies
 node_modules/
